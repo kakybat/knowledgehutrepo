@@ -1,0 +1,5 @@
+my:
+	greeting: Knowledgehut Welcomes you to learning SB cloud Configuration management with K
+	appName: Config Client 2
+	list:
+		values: apple, banana, mango
