@@ -1,4 +1,5 @@
 my:
-	greeting: Knowledgehut Welcomes you to learning SB cloud Configuration management with K
-	list:
-		values: apple, banana, mango
+  greeting: "Knowledgehut Welcomes you to learning SB cloud Configuration management with K"
+  list:
+    values: "apple, banana, mango"
+
